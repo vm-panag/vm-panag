@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align='center'>
+  Hello, I'm Vassilis!
+</h1>
 
-<!--
-**vm-panag/vm-panag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  Prospective Msc student in AI @ <a href="https://www.kuleuven.be/english/kuleuven">KU Leuven</a>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="https://www.linkedin.com/in/vmpanagakis/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/vm.panag/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  📫 How to reach me: <a href='mailto:vassilis.panagakis@gmail.com'>vassilis.panagakis@gmail.com</a>
+</p>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vm-panag&layout=compact&theme=material-palenight" />
+</p>
