@@ -19,6 +19,4 @@
   📫 How to reach me: <a href='mailto:vassilis.panagakis@gmail.com'>vassilis.panagakis@gmail.com</a>
 </p>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vm-panag&layout=compact&theme=material-palenight" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vm-panag)](https://github.com/vm-panag/github-readme-stats)
