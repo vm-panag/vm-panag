@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Prospective Msc student in AI @ <a href="https://www.kuleuven.be/english/kuleuven">KU Leuven</a>
+  MSc Student in AI @ <a href="https://www.kuleuven.be/english/kuleuven">KU Leuven</a>
 </p>
 
 <p align='center'>
