@@ -3,7 +3,8 @@
 </h1>
 
 <p align='center'>
-  MSc Student in AI @ <a href="https://www.kuleuven.be/english/kuleuven">KU Leuven</a>
+  MSc in Artificial Intelligence @ <a href="https://www.kuleuven.be/english/kuleuven">KU Leuven</a> <br>
+  AI & Computer Vision Engineer
 </p>
 
 <p align='center'>
